@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59cd88b8-02b5-4285-bad5-da121017ee15" name="Default Changelist" comment="线性表接口实现">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/test/AbstractList.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/test/ArrayList$1.class" afterDir="false" />
@@ -15,13 +12,7 @@
       <change afterPath="$PROJECT_DIR$/out/production/test/List.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/test/META-INF/test.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/test/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AbstractList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="121">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -230,16 +221,23 @@
       <option name="presentableId" value="Default" />
       <updated>1561868017253</updated>
       <workItem from="1561868034346" duration="11177000" />
-      <workItem from="1562736607062" duration="208000" />
+      <workItem from="1562736607062" duration="497000" />
     </task>
+    <task id="LOCAL-00001" summary="线性表接口实现">
+      <created>1562736955833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562736955833</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11409000" />
+    <option name="totallyTimeSpent" value="11674000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2272118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -362,8 +360,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="121">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
